@@ -1,3 +1,3 @@
 # RS.CAPTAIN
 
-cd 9xhacker
+cd RS.CAPTAIN
